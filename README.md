@@ -26,7 +26,6 @@ Real-time Layer: Firestore listeners with cleanup to prevent memory leaks
 Styling: Modular CSS with consistent naming conventions and responsive breakpoints
 
 ## Project Structure
-
 MessageHub/
 ├── public/
 │   ├── index.html            # HTML entry point with meta tags for responsiveness
